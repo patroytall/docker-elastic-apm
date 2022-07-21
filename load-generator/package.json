@@ -1,0 +1,9 @@
+{
+	"name": "load-generator",
+	"version": "0.1.0",
+	"license": "UNLICENSED",
+	"type": "module",
+	"dependencies": {
+		"node-fetch": "^3.2.9"
+	}
+}
