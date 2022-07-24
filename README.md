@@ -95,3 +95,14 @@ Agent URL: https://b2e40b20221847a38de33b8ceb7fa89c.apm.northamerica-northeast1.
 
     sudo apt install python-is-python3
     sudo apt install python3-pip
+
+## iOS and Android
+
+There is currently no support for iOS and Android for Elastic APM.
+
+This project has been started for iOS but is not very active: https://github.com/elastic/apm-agent-ios/commits/main
+
+For Android, Open Telemetry is an option with this Java solution:
+
+- https://www.elastic.co/guide/en/apm/guide/current/open-telemetry.html
+- https://github.com/open-telemetry/opentelemetry-java
